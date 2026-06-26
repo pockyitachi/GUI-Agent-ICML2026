@@ -1,6 +1,6 @@
 # ICML 2026 · GUI Agent 相关论文汇总与方向分析
 
-> 来源：孟方醒整理的 ICML 2026 GUI/Web/Computer-use agent paper list（约 35 篇）。
+> ICML 2026 GUI/Web/Computer-use agent paper list（约 35 篇）。
 > 标题已通过 GitHub 仓库 `jiaxianyan/icml-2026-agent-papers` + icml.cc poster 链接核实为真实 ICML 2026 录用论文。
 > arXiv ID 来自网页搜索结果，本环境无法直连 arxiv.org 逐条核验，请点击确认；标「待核实」的为可信度较低或标题有出入者。
 
